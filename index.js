@@ -51,11 +51,6 @@ inquirer
         },
         {
             type: 'input',
-            message: 'Enter Table of contents.',
-            name: 'contents',
-        },
-        {
-            type: 'input',
             message: 'Instalation procedure?',
             name: 'installation',
         },
