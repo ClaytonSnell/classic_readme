@@ -12,7 +12,7 @@
 asdfasfd
   
 ## Usage
-fasd
+Hopefully to help me generate a readme for my future projects
 
 ## Installation
 asd
